@@ -1,4 +1,4 @@
-package com.reactive.chapter02.observer;
+package com.example.chapter02.observer;
 
 /**
  * Observer 구현체

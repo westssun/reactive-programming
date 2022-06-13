@@ -1,4 +1,4 @@
-package com.reactive.chapter02.observer;
+package com.example.chapter02.observer;
 
 /**
  * 주체

@@ -1,6 +1,5 @@
-package com.reactive.chapter_02.observer;
+package com.example.chapter02.observer;
 
-import com.reactive.chapter02.observer.*;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
